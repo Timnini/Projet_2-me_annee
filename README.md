@@ -1,6 +1,6 @@
 # Projet_2ème_année
 
-******************************************* Présentation ***************************************************
+******************************************* Présentation *****************************************************
 
 Ce programme est outil visant à optimiser la gestion logistique d'une société nationale de transport routier.
 
@@ -42,7 +42,7 @@ où elles sont ville de départ de trajet
 Le traitement S : qui affiche les statistiques des routes ID.
 
 
-***************************** Un petit instant avant de pouvoir utiliser le programme : ) *******************************
+************************* Un petit instant avant de pouvoir utiliser le programme : ) ************************
 
  Pour utiliser le programme :
 - Télécharger tous les fichiers du github
@@ -57,7 +57,7 @@ Le traitement S : qui affiche les statistiques des routes ID.
 
 
 
-********************************************* BUG ************************************************************************
+********************************************* BUG ************************************************************
 
 Mise à part dans le traitement T où on trouve un problème lorsque avec les villes qui ont des arrondissement aucun bug n'a été observé pour le moment. 
 
