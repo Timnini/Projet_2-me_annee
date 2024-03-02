@@ -2,9 +2,9 @@
 
 ******************************************* Présentation ***************************************************
 
-Ce programme est un outil gérant l’ensemble de la logistique une société nationale de transport routier
+Ce programme est outil visant à optimiser la gestion logistique d'une société nationale de transport routier.
 
-Il est codé en Unix/Shell et en C
+Il est codé en Unix/Shell et en C.
 
 Pour le code C : 
 
@@ -30,16 +30,16 @@ Avec 2 fichiers header qui reprennent les noms des fichiers .c
 
 Ce programme propose 5 fonctionnalités : 
 
-Le traitement D1 : qui affiche les 10 conducteurs avec le plus de trajets
+Le traitement D1 : qui affiche les 10 conducteurs avec le plus de trajets.
 
-Le traitement D2 : qui affiche les 10 conducteurs avec la plus grande distance parcourue
+Le traitement D2 : qui affiche les 10 conducteurs avec la plus grande distance parcourue.
 
-Le traitement L : qui affiche les 10 trajets les plus longs
+Le traitement L : qui affiche les 10 trajets les plus longs.
 
-Le traitement T : qui affiche les 10 villes les plus traversées avec le nombre de fois
+Le traitement T : qui affiche les 10 villes les plus traversées avec le nombre de fois.
 où elles sont ville de départ de trajet
 
-Le traitement S : qui affiche les statistiques des routes ID
+Le traitement S : qui affiche les statistiques des routes ID.
 
 
 ***************************** Un petit instant avant de pouvoir utiliser le programme : ) *******************************
@@ -59,7 +59,7 @@ Le traitement S : qui affiche les statistiques des routes ID
 
 ********************************************* BUG ************************************************************************
 
-Mise à part dans le traitement T le problème avec les villes qui ont des arrondissement aucun bug n'a été observé pour le moment. 
+Mise à part dans le traitement T où on trouve un problème lorsque avec les villes qui ont des arrondissement aucun bug n'a été observé pour le moment. 
 
 Si vous rencontrez un bug veuillez le signaler à une des adresses mails suivantes : 
 
